@@ -96,7 +96,7 @@ Technology and Packages used:
 
 ## Installation
 
-Install Sky Watch with npm
+Install Kool-Kicks with npm
 
 ```bash
   git clone 'git remote add origin https://github.com/PriyanshShrivastava/kool-kicks-frontend.git'
